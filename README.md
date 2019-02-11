@@ -23,16 +23,13 @@ These three scenes are described in detail below.
 <img src="https://lh5.googleusercontent.com/UtYdVs086wOJ3wbumC9dgl9gt1NuUfWMn2X3fBceHC0c7wXGzgd2OdVoMkChLqVCCX25ovTQkOvUfDBFcz2vcfK7xXmfmjDPElhbc1Lxgwhefk6mn7qEzf8wkOcn4jCXu2Rdr0E1" width="200" height="360" />
 
 ## Map And Table Tabbed View
-This view has two tabs at the bottom: one specifying a map, and the other a table.
+- This view has two tabs at the bottom: one specifying a map, and the other a table.
+- When the map tab is selected, the view displays a map with pins specifying the last 100 locations posted by students.
+- The user is able to zoom and scroll the map to any location using standard pinch and drag gestures.
+- When the user taps a pin, it displays the pin annotation popup, with the student’s name (pulled from their Udacity profile) and the link associated with the student’s pin.
+- Tapping anywhere within the annotation will launch Safari and direct it to the link associated with the pin.
+
+<img src="https://lh6.googleusercontent.com/kp0aiO9i4hBdfOyOcA5Ik6m95LxX2TUOZBanYCVxszywkuGGS8_McBMkLMPFb72VBH-UOqBnSu80hbrbO4doY2ZzWcU2GN46_fM5fOIx6GYZnwqySdzol51oQ_zWVWfgiZazJquX" width="200" height="360" />
 
 
-When the map tab is selected, the view displays a map with pins specifying the last 100 locations posted by students.
-
-
-The user is able to zoom and scroll the map to any location using standard pinch and drag gestures.
-
-
-When the user taps a pin, it displays the pin annotation popup, with the student’s name (pulled from their Udacity profile) and the link associated with the student’s pin.
-
-
-Tapping anywhere within the annotation will launch Safari and direct it to the link associated with the pin.
+<img src="https://lh3.googleusercontent.com/T-nmBfI9Ox8ygC_-zkVI18d7ET1wNjZD7s1GO6sX4CerH44IR789jNdT9QRLGH_TeL08sFXnDaWG5IfWPtaprUk6RjK2_S3Hnj-fGTVj4QEWePJduaPAMYGp5m4dnaZ8O9kODbYK" width="200" height="360" />
