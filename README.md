@@ -1,5 +1,17 @@
-# OnTheMap
+# On The Map
 The On The Map app allows users to share their location and a URL with their fellow students. To visualize this data, On The Map uses a map with pins for location and pin annotations for student names and URLs, allowing students to place themselves “on the map,” so to speak.
+
+## Why This Project?
+This project gives me an opportunity to post and retrieve data from a network resource using Apple’s networking framework. It also allows me to authenticate a user.
+
+## What did I learn?
+- Accessing networked data using Apple’s URL loading framework
+- Authenticating a user using over a network connection
+- Creating user interfaces that are responsive, and communicate network activity
+- Use Core Location and the MapKit framework for to display annotated pins on a map
+
+## Why is this project meaningful to my career?
+Working with data from networked sources is as important to iOS development as creating good user interfaces. Completing this project shows that a developer can both read and write from RESTful networked APIs
 
 # Application Scenario
 First, the user logs in to the app using their Udacity username and password. After login, the app downloads locations and links previously posted by other students. These links can point to any URL that a student chooses.
