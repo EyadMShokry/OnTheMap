@@ -24,6 +24,5 @@ Clicking on the Sign Up link will open Safari to the Udacity sign-up page.
 
 
 If the connection is made and the email and password are good, the app will segue to the Map and Table Tabbed View.
-![alt text]( =210x360)
 <img src="https://lh5.googleusercontent.com/UtYdVs086wOJ3wbumC9dgl9gt1NuUfWMn2X3fBceHC0c7wXGzgd2OdVoMkChLqVCCX25ovTQkOvUfDBFcz2vcfK7xXmfmjDPElhbc1Lxgwhefk6mn7qEzf8wkOcn4jCXu2Rdr0E1" width="200" height="400" />
 
