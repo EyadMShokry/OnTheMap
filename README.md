@@ -15,15 +15,11 @@ These three scenes are described in detail below.
 
 ## Login View
 The login view accepts the email address and password that students use to login to the Udacity site. User credentials are not required to be saved upon successful login.
-
-
 When the user taps the Login button, the app will attempt to authenticate with Udacity’s servers.
-
-
 Clicking on the Sign Up link will open Safari to the Udacity sign-up page.
-
-
 If the connection is made and the email and password are good, the app will segue to the Map and Table Tabbed View.
+If the login does not succeed, the user will be presented with an alert view specifying whether it was a failed network connection, or an incorrect email and password.
 
 <img src="https://lh5.googleusercontent.com/UtYdVs086wOJ3wbumC9dgl9gt1NuUfWMn2X3fBceHC0c7wXGzgd2OdVoMkChLqVCCX25ovTQkOvUfDBFcz2vcfK7xXmfmjDPElhbc1Lxgwhefk6mn7qEzf8wkOcn4jCXu2Rdr0E1" width="200" height="360" />
 
+## Map And Table Tabbed View
