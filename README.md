@@ -44,6 +44,13 @@ These three scenes are described in detail below.
 - The Information Posting View allows users to input their own data.
 - When the **Information Posting View** is modally presented, the user sees two text fields: one asks for a location and the other asks for a link.
 - When the user clicks on the “Find Location” button, the app will forward geocode the string. If the forward geocode fails, the app will display an alert view notifying the user. Likewise, an alert will be displayed if the link is empty.
+
+<img src="https://lh6.googleusercontent.com/ZUPGm-h5Dvprnr_aFvgSsc3DaLhwMmibwyozlk6cCujOdgyqPL_hyOjvNXQtmXayz2vPCjkH3xJQSLdMCynIAca4QrjCYCAQ1yObY3ksQsBfz2EuL7wHfFyu2m0nmQsKN4SOxxEG" height="360" />
+
+
+
+<img src="https://lh4.googleusercontent.com/yh7K8d0mgw0x_oNqifYMsEZlastOkkhNcgNFoLLDkTFvBMYeiIupsLCJFKVqPSmxBjgvAwZQDdqzLrbqzpMUz6hxS5tkyZ66V0L0UKLEcjrAI0byR5Kncpx_xfx7yn7o1SZOJmsQ" height="360" />
+
 - If the forward geocode succeeds then text fields will be hidden, and a map showing the entered location will be displayed. Tapping the “Finish” button will post the location and link to the server.
 - If the submission fails to post the data to the server, then the user should see an alert with an error message describing the failure.
 - If at any point the user clicks on the “Cancel” button, then the Information Posting View should be dismissed, returning the app to the Map and Table Tabbed View.
